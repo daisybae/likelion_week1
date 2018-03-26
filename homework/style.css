@@ -1,0 +1,35 @@
+
+.grid{
+  border: 1px grey solid;
+  border-radius: 5%;
+  width: 300px;
+  height: 500px;
+  display:grid;
+}
+.box { 
+  padding:10px;
+  border-radius: 5%;
+ }
+.a{
+  height:150px;
+  background-color: rgba(0, 255, 0,0.1);
+}
+
+.b{
+}
+ .meerkat{ 
+  font-family:"Glegoo";
+  src: url(../fonts/Glegoo-Regular.ttf) format('truetype');
+  text-align: center;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+      display: table-cell;
+      vertical-align: middle;
+}
